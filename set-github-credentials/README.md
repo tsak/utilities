@@ -11,7 +11,7 @@ Put it somewhere in your path, for example `$HOME/.local/bin`
 PATH="$HOME/.local/bin:$PATH"
 ```
 
-Created `$HOME/.github-credentials` with
+Create `$HOME/.github-credentials` with
 
 ```
 GITHUB_EMAIL=bar@baz.com
